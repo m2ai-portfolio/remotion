@@ -17,7 +17,7 @@
     {
       "type": "title",
       "narration": "",
-      "audioFile": "audio/silence_4s.mp3",
+      "audioFile": "audio/blurr/silence_4s.mp3",
       "props": {
         "heading": "THE EVOLUTION OF RACING",
         "subheading": "Where heritage meets autonomy",
@@ -44,7 +44,7 @@
       "type": "screenRecording",
       "narration": "",
       "props": {
-        "clip": "clips/blurr/seedance_v3_engineering.mp4",
+        "clip": "clips/blurr/seedance_v3_race_engineering.mp4",
         "muteOriginal": true
       }
     },
@@ -52,7 +52,7 @@
       "type": "screenRecording",
       "narration": "",
       "props": {
-        "clip": "clips/blurr/seedance_v4_c8.mp4",
+        "clip": "clips/blurr/seedance_v4_blurr.mp4",
         "muteOriginal": true
       }
     },
@@ -91,7 +91,7 @@
     {
       "type": "title",
       "narration": "",
-      "audioFile": "audio/silence_5s.mp3",
+      "audioFile": "audio/blurr/silence_5s.mp3",
       "props": {
         "heading": "",
         "subheading": "",

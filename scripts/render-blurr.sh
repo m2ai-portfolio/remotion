@@ -27,8 +27,8 @@ MISSING=0
 CLIPS=(
   "clips/blurr/seedance_v1_heritage.mp4"
   "clips/blurr/seedance_v2_f1tenth.mp4"
-  "clips/blurr/seedance_v3_engineering.mp4"
-  "clips/blurr/seedance_v4_c8.mp4"
+  "clips/blurr/seedance_v3_race_engineering.mp4"
+  "clips/blurr/seedance_v4_blurr.mp4"
   "clips/blurr/pdr_switchback_071g.mp4"
   "clips/blurr/pdr_foggy_mountain.mp4"
   "clips/blurr/pdr_mountain_vista.mp4"
