@@ -15,13 +15,13 @@
   },
   "scenes": [
     {
-      "type": "title",
+      "type": "screenRecording",
       "narration": "",
-      "audioFile": "audio/blurr/silence_4s.mp3",
       "props": {
-        "heading": "THE EVOLUTION OF RACING",
-        "subheading": "Where heritage meets autonomy",
-        "background": "assets/blurr/gen05_silverstone_golden.jpg"
+        "clip": "clips/blurr/seedance_v4_blurr.mp4",
+        "startTime": 13.7,
+        "endTime": 14.7,
+        "muteOriginal": true
       }
     },
     {
@@ -131,6 +131,16 @@
       "type": "screenRecording",
       "narration": "",
       "props": {
+        "clip": "clips/blurr/seedance_v5_sensor_zones.mp4",
+        "startTime": 5.7,
+        "endTime": 11.7,
+        "muteOriginal": true
+      }
+    },
+    {
+      "type": "screenRecording",
+      "narration": "",
+      "props": {
         "clip": "clips/blurr/seedance_v3_race_engineering.mp4",
         "muteOriginal": true
       }
@@ -140,8 +150,8 @@
       "narration": "",
       "props": {
         "clip": "clips/blurr/seedance_v5_sensor_zones.mp4",
-        "startTime": 0,
-        "endTime": 13,
+        "startTime": 1.7,
+        "endTime": 4.7,
         "muteOriginal": true
       }
     },
@@ -150,8 +160,8 @@
       "narration": "",
       "props": {
         "clip": "clips/blurr/dji_orbit_c8.mp4",
-        "startTime": 7.67,
-        "endTime": 11.67,
+        "startTime": 9.34,
+        "endTime": 11.34,
         "muteOriginal": true
       }
     },
@@ -160,6 +170,8 @@
       "narration": "",
       "props": {
         "clip": "clips/blurr/seedance_v4_blurr.mp4",
+        "startTime": 1.7,
+        "endTime": 13.7,
         "muteOriginal": true
       }
     },
